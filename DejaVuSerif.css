@@ -11,13 +11,13 @@
 
 @font-face {
     font-family: "DejaVu Serif";
-    font-style: italic, oblique;
+    font-style: italic;
     src: url("DejaVuSerif-Italic.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "DejaVu Serif";
-    font-style: italic, oblique;
+    font-style: italic;
     font-weight: bold;
     src: url("DejaVuSerif-BoldItalic.ttf") format("truetype");
 }

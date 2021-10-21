@@ -11,13 +11,13 @@
 
 @font-face {
     font-family: "DejaVu Mono";
-    font-style: italic, oblique;
+    font-style: italic;
     src: url("DejaVuSansMono-Oblique.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "DejaVu Mono";
-    font-style: italic, oblique;
+    font-style: italic;
     font-weight: bold;
     src: url("DejaVuSansMono-BoldOblique.ttf") format("truetype");
 }

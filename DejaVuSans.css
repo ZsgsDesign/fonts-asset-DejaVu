@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "DejaVu Sans";
+    font-style: normal;
+    font-weight: normal;
+    src: url("{{asset('/static/fonts/dejavu/DejaVuSans.ttf')}}") format("truetype");
+}
+
+@font-face {
+    font-family: "DejaVu Sans";
+    font-style: normal;
+    font-weight: bold;
+    src: url("{{asset('/static/fonts/dejavu/DejaVuSans-Bold.ttf')}}") format("truetype");
+}
+
+@font-face {
+    font-family: "DejaVu Sans";
+    font-style: italic, oblique;
+    font-weight: normal;
+    src: url("{{asset('/static/fonts/dejavu/DejaVuSans-Oblique.ttf')}}") format("truetype");
+}
+
+@font-face {
+    font-family: "DejaVu Sans";
+    font-style: italic, oblique;
+    font-weight: bold;
+    src: url("{{asset('/static/fonts/dejavu/DejaVuSans-BoldOblique.ttf')}}") format("truetype");
+}
